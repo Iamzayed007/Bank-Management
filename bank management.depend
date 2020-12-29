@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521729999 source:d:\projects(c++)\bank management\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+
